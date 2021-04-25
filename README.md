@@ -5,4 +5,4 @@
 <img src="https://github.com/Pi-exe/Obstacle_avoidingrobo/blob/main/schema.jpg">
 
 
-Place this code in Arduino IDE
+Place the code in Arduino IDE
